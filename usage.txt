@@ -1,0 +1,5 @@
+1.0 //güncelleme yok
+1.2 //güncelleme bulundu
+1.3 //website hatasi
+1.4 // hile bakim asamasinda
+1.5 //bilinmeyen hata
